@@ -13,6 +13,8 @@
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 
+# define BUFFER_SIZE 2
+
 # include <stdio.h>
 # include <stddef.h>
 # include <stdlib.h>
